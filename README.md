@@ -5,9 +5,11 @@
 - 📫 How to reach me iamzayon18@gmail.com
 - 😄 Pronouns: Him fr
 - ⚡ Fun fact: my career would be dead without Google...and Stackoverflow ofcourse. Oh also, I'm a Computer Science Student.
-- I love playing chess too, Love Animes.
+- I love playing chess and I Love Animes.
   
   *Best ReadMe you'll see today .😏*
+  
+  *Curtain fades*
 
 <!---
 heisayon/heisayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
