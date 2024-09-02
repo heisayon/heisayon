@@ -21,6 +21,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="FIREBASE" **alt="FIREBASE" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" **alt="materialui" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" **alt="" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="" **alt="" width="40" height="40"/>
+             <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="" **alt="" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="" **alt="" width="40" height="40"/>
+       
+       
+  
 </div>
 
 
